@@ -2,24 +2,28 @@
 
 ### **Intern: Rukesh Shivahari**
 
+### Day 01: [Terminal Setup and Command Basics].
+
 ### Tasks Completed
 
-# Day 01: [Terminal Setup and Command Basics].
+ [] Installation and Setup: As instructed, installed and setup the flutter '3.35.1'. Had peek on why this specific flutter version 3.35.1 was recommended.
 
-- [ 1] Installation and Setup: As instructed, installed and setup the flutter '3.35.1'. Had peek on why this specific flutter version 3.35.1 was recommended.
 
-- [ 2] Learned Linux and its basic commands: Learned about Unix/MacOs terminal and shell. Researched on basic concepts of Linux  and its commonly used commands like : echo, cd, find, nano, cat , clear, touch, pwd, ls, man, history etc.
+ [] Learned Linux and its basic commands: Learned about Unix/MacOs terminal and shell. Researched on basic concepts of Linux  and its commonly used commands like : echo, cd, find, nano, cat , clear, touch, pwd, ls, man, history etc.
 Even learned some basic keyboard shortcuts in zsh terminal.
 
-- [ 3] Researched on the file operations and navigation through shell commands : Worked on different file operations with its permissions and actions. Got familiar with different file editor modes like vim and nano. Some of the commands i learned from these file operations and navigation are cp, rm, mv, find, chmod, chown, tail, head, diff etc
 
-- [4] Setup homebrew : Upgraded and updated the homebrew package. Tried different brew commands like : brew install, brew uninstall, brew upgrade, brew list, brew search , brew info etc
+ [] Researched on the file operations and navigation through shell commands : Worked on different file operations with its permissions and actions. Got familiar with different file editor modes like vim and nano. Some of the commands i learned from these file operations and navigation are cp, rm, mv, find, chmod, chown, tail, head, diff etc
 
-- [5] Practice Task : Completed the practice task that was assigned today. 
+
+ [] Setup homebrew : Upgraded and updated the homebrew package. Tried different brew commands like : brew install, brew uninstall, brew upgrade, brew list, brew search , brew info etc
+
+
+ [] Practice Task : Completed the practice task that was assigned today. 
 
 ### Technical "Today I Learned" (TIL)
 
-- I learned about the general format of Linux commands which is : <command> -/--<options> <arguments>. So I tried many commands with different options.
+- I learned about the general format of Linux commands which is : [command] -/--[options] [arguments]. So I tried many commands with different options.
 - I learned about linux file system hierarchy which follows an inverted tree like structure as root is at the topmost part. So I had a great time on picturing the directory and files path and depths.
 - I learnt one of the ways of optimizing the hectic, repeated tasks using bash scripting where we can store different sequence of task completing commands and executing it.
 - During file operations and navigation I was introduced to the file permission like read, write and execute and different user categories like Owner, Groups and Others.
