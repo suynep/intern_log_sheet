@@ -1,27 +1,27 @@
 # Daily Intern Log: [Date]
 
-### **Intern: Suyash Nepal**
+### **Intern: Aayush Shrestha**
 
 ## Focus: [Learning]
 ### Tasks Completed
 
-- [ ] [Day 01 Readings]: [Brief description of what was built or fixed].
-- [ ] [Task Name]: [Brief description].
+- [ ] [Day 01 Readings]: Studied Linux fundamentals.
+- [ ] [Task Name]: WSL (Windows Subsystem for Linux) setup concepts, and development environment planning.
 
 ### Technical "Today I Learned" (TIL)
 
 - Focus on the "Why" and "How" of your learning today.
-- Concept/Tool: [e.g., Understanding Auto Layout constraints vs. Frames]
-- Key Takeaway: [e.g., "I learned that brew upgrade only updates the formula, while brew upgrade [package] updates the actual software."]
+- Concept/Tool: WSL, Ubuntu, Git
+- Key Takeaway: Learned how Linux-based workflows, terminal usage, and Git version control support professional development environments.
 - Code:
 
 ### Work Evidence
 
-- Documentation Read: [Link]
+- Documentation Read: https://www.geeksforgeeks.org/operating-systems/unix-file-system/
 
 ### Blockers and Challenges
 
-- Issues found/blockers to learning
+- issue with installation of ubuntu
 
 ### 💬 Mentor Feedback
 
