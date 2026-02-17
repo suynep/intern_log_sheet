@@ -93,8 +93,6 @@ https://github.com/ohmyzsh/ohmyzsh/wiki
 https://conventional-branch.github.io/
 https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 
-
-
 ### Blockers and Challenges
 - None
 
