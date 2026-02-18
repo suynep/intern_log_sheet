@@ -1,28 +1,80 @@
-# Daily Intern Log: [Date]
+\# Daily Intern Log: \[Day 1]
 
-### **Intern: Suyash Nepal**
 
-## Focus: [Learning]
-### Tasks Completed
 
-- [ ] [Day 01 Readings]: [Brief description of what was built or fixed].
-- [ ] [Task Name]: [Brief description].
+\### \*\*Intern: Suchana Pokhrel\*\*
 
-### Technical "Today I Learned" (TIL)
 
-- Focus on the "Why" and "How" of your learning today.
-- Concept/Tool: [e.g., Understanding Auto Layout constraints vs. Frames]
-- Key Takeaway: [e.g., "I learned that brew upgrade only updates the formula, while brew upgrade [package] updates the actual software."]
-- Code:
 
-### Work Evidence
+\## Focus: \[Terminal Setup and Command Basics]
 
-- Documentation Read: [Link]
+\### Tasks Completed
 
-### Blockers and Challenges
 
-- Issues found/blockers to learning
 
-### 💬 Mentor Feedback
+\* Installed and set up Ubuntu environment.
+
+\* Installed required tools (Git, Curl, Vim).
+
+\* Accessed and explored the terminal interface.
+
+\* Practiced basic navigation commands.
+
+\* Created folders and text files for practice.
+
+\* Edited files using nano and vim.
+
+
+
+\### Technical "Today I Learned" (TIL)
+
+
+
+\- Concept/Tool: Terminal vs GUI, Basic Command Structure. 
+
+\- Key Takeaway: I gained the difference between terminal vs GUI. Terminal is much interactive and efficient compared to GUI because it allows direct interaction with OS using commands. Most terminal commands include ls,ls -la, pwd, cd, man etc.
+
+\- Code: 
+
+\* pwd: Display current directory path
+
+\* ls: List directory contents
+
+\* ls -la: List all files including hidden files
+
+\* cd: Change directory
+
+\* clear: Clear terminal screen
+
+\* history: Show previously executed commands
+
+\* man: Access manual pages for commands
+
+
+
+\### Work Evidence
+
+
+
+\- Documentation Read: \[https://www.geeksforgeeks.org/linux-unix/25-basic-ubuntu-commands/]
+
+
+
+\### Blockers and Challenges
+
+
+
+\- Faced challenges learning vim 
+
+\- Took time to understand how all the commands work on ubuntu
+
+
+
+\### 💬 Mentor Feedback
+
+
 
 (To be filled by Mentor):
+
+
+
