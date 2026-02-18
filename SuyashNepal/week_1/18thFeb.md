@@ -10,6 +10,14 @@
 
 ### Technical "Today I Learned" (TIL)
 
+> The above took me only around 3 hours to complete. In the remaining 4.5 hrs, I: 
+>   1. Started working on a [Habitica Clone](https://github.com/suynep/habitica_clone) in Flutter to understand:
+>       - Basics of State Management
+>       - The Philosophy of "Everything is a Widget" in Flutter
+>       - The Different types of Widgets in Flutter
+>       - UI Overflow Handling Mechanisms (`Flexible`, `Expanded`, `ConstrainedBox`)
+>   2. Learned about Lifting the state up from [](https://github.com/brianegan/flutter_architecture_samples/tree/main/vanilla) and [](https://legacy.reactjs.org/docs/lifting-state-up.html)
+
 - About Linux Processes and Package Management Utilities/Tools
 - Concept/Tool: Process vs. Threads, Process Isolation on Kernel-level using PCBs, Priorities in the Linux OS using Niceness Numbers (*higher number = lower priority*, ranging from -20 to 19), `brew` & `apt` have similar commands in regards to package management
 - Key Takeaway: Monitoring the System and Processes and managing packages using CLI proves useful when doing an SSH into remote server for administration.
