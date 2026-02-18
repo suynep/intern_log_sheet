@@ -5,8 +5,8 @@
 ## Focus: Learning
 ### Tasks Completed
 
-- [ ] **Day 01 Readings**: Read about the Linux terminal, Terminal vs. GUI applications, common navigation commands like `ls`, `cd` etc. and file operation commands like `cat`, `touch`, `mv` etc.
-- [ ] **Day 01 Practice Task**: Implement the practice question regarding creating a folder `intern_week1`, creating files within, using `vim`, and viewing the output using the `cat` command.
+- [x] **Day 01 Readings**: Read about the Linux terminal, Terminal vs. GUI applications, common navigation commands like `ls`, `cd` etc. and file operation commands like `cat`, `touch`, `mv` etc.
+- [x] **Day 01 Practice Task**: Implement the practice question regarding creating a folder `intern_week1`, creating files within, using `vim`, and viewing the output using the `cat` command.
 
 ### Technical "Today I Learned" (TIL)
 
@@ -29,6 +29,8 @@ cat notes.txt # view content of notes.txt
 ### Work Evidence
 
 - Documentation Read: [/usr description](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/usr.html), [list env vars for checking history save size](https://www.cyberciti.biz/faq/linux-list-all-environment-variables-env-command/)
+
+- Link for the Unified `.md` file containing **Notes**: [Notes Link](https://gist.github.com/suynep/64f7562152e3b756689b95ad4f3b29ac)
 
 ### Blockers and Challenges
 
