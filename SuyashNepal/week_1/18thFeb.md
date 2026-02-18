@@ -16,7 +16,7 @@
 >       - The Philosophy of "Everything is a Widget" in Flutter
 >       - The Different types of Widgets in Flutter
 >       - UI Overflow Handling Mechanisms (`Flexible`, `Expanded`, `ConstrainedBox`)
->   2. Learned about Lifting the state up from [](https://github.com/brianegan/flutter_architecture_samples/tree/main/vanilla) and [](https://legacy.reactjs.org/docs/lifting-state-up.html)
+>   2. Learned about Lifting the state up from <https://github.com/brianegan/flutter_architecture_samples/tree/main/vanilla> and <https://legacy.reactjs.org/docs/lifting-state-up.html>
 
 - About Linux Processes and Package Management Utilities/Tools
 - Concept/Tool: Process vs. Threads, Process Isolation on Kernel-level using PCBs, Priorities in the Linux OS using Niceness Numbers (*higher number = lower priority*, ranging from -20 to 19), `brew` & `apt` have similar commands in regards to package management
