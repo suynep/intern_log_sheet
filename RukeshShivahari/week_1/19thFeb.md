@@ -1,0 +1,45 @@
+# Daily Intern Log: [2026/02/19]
+
+### **Intern: Rukesh Shivahari**
+
+### Day 04: [Git Fundamentals].
+
+### Tasks Completed
+
+    [] Researched on Package Management : Familirity with package and ways of managing packages.Walkthrough on package management in linux, using homebrew managed different packages in the system.
+
+    [] Process and its types(Foreground processes and Background processes): Definition of process in terms of shell and different types of process like foreground processes and background processes.
+    Ways of handling these different types of processes.
+
+    [] Familirity with system monitoring  : Got to know about most commonly used tools for system monitoring in the terminal like top, htop, btop and glances.Got to know their features and importance of system monitoring.
+   
+    [] Flutter commands : Researched on some basic flutter commands and implemented them.
+
+    [] Dart practice : Light practice on some dart project through dart documentation.
+
+    [] Practice Task : Completed the practice task that was assigned today. 
+
+### Technical "Today I Learned" (TIL)
+
+- Got to know about processes and comparison between foreground and background processes. I even knew the scenarios where it is best to execute and command/task in background.
+- I learned about package management and ways of managing package using homebrew which a popular open source package manager. I go familiar with some of its basic commands like brew install, brew info, brew update etc. I got to know some of its core concepts like formulae, bottles, casks.
+- I learned how system monitoring is used to diagnose the system resoures, CPU performance, disk utilization, memory usage and netork I/O. I even learned the uniques features of these system monitoring tools through terminal like top, htop and how glances is preferred for remote monitoring through network.
+- With remaining additional time, practiced some dart programs and get to know some important flutter commands. 
+
+- Code:
+
+    1. Practice Task :
+
+        
+
+
+
+
+- Documentation Read: 
+
+
+
+### Blockers and Challenges
+- None
+
+### 💬 Mentor Feedback
