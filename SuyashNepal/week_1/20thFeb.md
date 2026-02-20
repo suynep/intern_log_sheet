@@ -2,7 +2,7 @@
 
 ### **Intern: Suyash Nepal**
 
-## Focus: Learning
+## Focus: Learning (Dart, Flutter, Presentation Creation)
 ### Tasks Completed
 
 - [x] **Day 05 Readings**: [Dart Types](https://dart.dev/language/built-in-types), [Patterns](https://dart.dev/language/built-in-types) (Matching, Destructuring, and their variations in multiple places), Flutter docs for setup and common architectural shenanigans
