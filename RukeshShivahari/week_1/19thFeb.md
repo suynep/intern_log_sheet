@@ -29,23 +29,22 @@ git config --global user.email [email]
 
     1. Practice Task :
 
-
-        git init
-        git branch -M main
-        git add .
-        git commit -m "feat: Add file new-file.txt"
-        git remote add origin https://github.com/ShivahariRukesh/practice_task.git
-        git push -set--upstream origin main
-        git checkout -b feature/test
-        git commit -m  "feat: Add new contents to new-file.txt" 
-        git add test-file.txt
-        git commit -m "feat: Add new test-file.txt" 
-        git add .
-        git commit -m "feat: Add content to test-file.txt" 
-        git add .
-        git commit -m "refactor: Change content to new-file.txt"
-        git checkout main
-        git merge feature/test
+       - git init
+       - git branch -M main
+       - git add .
+       - git commit -m "feat: Add file new-file.txt"
+       - git remote add origin https://github.com/ShivahariRukesh/practice_task.git
+       - git push -set--upstream origin main
+       - git checkout -b feature/test
+       - git commit -m  "feat: Add new contents to new-file.txt" 
+       - git add test-file.txt
+       - git commit -m "feat: Add new test-file.txt" 
+       - git add .
+       - git commit -m "feat: Add content to test-file.txt" 
+       - git add .
+       - git commit -m "refactor: Change content to new-file.txt"
+       - git checkout main
+       - git merge feature/test
 
 
 
