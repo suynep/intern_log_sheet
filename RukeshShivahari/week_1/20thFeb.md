@@ -22,7 +22,7 @@
 
     [] Learned about what flutter is and its core architecture. It makes sure that you know well about how flutter works behind the scenes.
 
-    [] Got to know about different usefule commands that is commonly used in the flutter during development like flutter doctor, flutter run , flutter --version, flutter build --profile, flutter pub add , flutter pug get and many more.
+    [] Got to know about different useful commands that is commonly used in the flutter during development like flutter doctor, flutter run , flutter --version, flutter build --profile, flutter pub add , flutter pug get and many more.
 
     [] Understood the main differences between Hot Reload and Hot Restart in flutter and its impact on the development phase. Additionall, got to know in which cases Hot Reload works and cases where Hot Restart becomes handy when Hot Reload fails to work.
 

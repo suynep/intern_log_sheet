@@ -12,7 +12,7 @@
 
     [] Researched on the file operations and navigation through shell commands : Worked on different file operations with its permissions and action. Some of the commands i learned from these file operations and navigation are cp, rm, mv, find, chmod, chown, tail, head, diff etc
 
-    [] Github essentials : Researched on git base and git merge concepts.Apply standard format for the naming of branches in github. Did some Pull Request reviews and merge in the collaborative workspace in github.
+    [] Github essentials : Researched on git rebase and git merge concepts.Apply standard format for the naming of branches in github. Did some Pull Request reviews and merge in the collaborative workspace in github.
 
 
     [] Practice Task : Completed the practice task that was assigned today. 
