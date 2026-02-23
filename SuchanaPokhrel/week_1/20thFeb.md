@@ -2,7 +2,7 @@
 
 ### **Intern: Suchana Pokhrel**
 
-## Focus: Git Fundamentals
+## Focus: [Git Fundamentals]
 ### Tasks Completed
 
 - Initialized the git repository and made 5 meaningful commits. - Created a branch name feature/test and made changes into that branch like adding a new file and content. And later on merged that into main branch.
