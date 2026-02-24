@@ -14,7 +14,6 @@
 - Concept/Tool: [e.g., Understanding Auto Layout constraints vs. Frames]
 - Key Takeaway: [e.g., "I learned that brew upgrade only updates the formula, while brew upgrade [package] updates the actual software."]
 - Code:
-
 ### Work Evidence
 
 - Documentation Read: [Link]
