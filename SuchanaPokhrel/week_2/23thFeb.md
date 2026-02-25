@@ -1,4 +1,4 @@
-# Daily Intern Log: Day 4
+# Daily Intern Log: Day 1
 
 ### **Intern: Suchana Pokhrel**
 
