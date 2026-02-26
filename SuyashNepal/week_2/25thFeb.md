@@ -5,7 +5,7 @@
 ## Focus: Practice Problems, Error Handling, Factory Pattern, Extra Practice Problems, Loops 
 ### Tasks Completed
 
-- [x] **Day 03 Readings**: [Loops in Dat](https://dart.dev/language/loops), [Error Handling in Dart](https://dart.dev/language/error-handling), [Branches](https://dart.dev/language/branches) 
+- [x] **Day 03 Readings**: [Loops in Dart](https://dart.dev/language/loops), [Error Handling in Dart](https://dart.dev/language/error-handling), [Branches](https://dart.dev/language/branches) 
 - [x] **Day 03 Practice Task**: Completed!
 
 ### Technical "Today I Learned" (TIL)
