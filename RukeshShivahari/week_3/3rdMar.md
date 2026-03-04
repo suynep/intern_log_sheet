@@ -32,7 +32,7 @@
     Furthermore, I grasped the insignificant knowledge about this extension methods and its use cases like when it is needed to add helper methods, when the original class (like built-in types) is unmodifiable.
 
 ### Work Evidence
-    - The practice tasks that was assigned is in this [url](https://gist.github.com/ShivahariRukesh/db21b3a71db3be1e447ebbcfb08607bd).
+- The practice tasks that was assigned is in this [url](https://gist.github.com/ShivahariRukesh/db21b3a71db3be1e447ebbcfb08607bd).
 
 
 - Documentation Read:
