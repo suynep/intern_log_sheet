@@ -1,5 +1,7 @@
 import 'package:day_01_exercises/src/exercise_02/form_data_model_provider.dart';
 import 'package:day_01_exercises/src/exercise_02/page.dart';
+import 'package:day_01_exercises/src/exercise_03/logs_data_model_provider.dart';
+import 'package:day_01_exercises/src/exercise_03/page.dart';
 import 'package:flutter/material.dart';
 import 'package:day_01_exercises/src/exercise_01/page.dart';
 
@@ -58,6 +60,8 @@ class _HomePageState extends State<HomePage> {
               return Exercise01();
             case 1:
               return FormDataModelProvider(child: Exercise02());
+            case 2:
+              return LogsDataModelProvider(child: Exercise03());
 
             default:
               return Container();
