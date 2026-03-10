@@ -9,6 +9,15 @@
 - [ ] **Day 01 Practice Task**: In Progress
 
 ### Technical "Today I Learned" (TIL)
+- Flutter’s layered architecture separates responsibilities across multiple layers (Framework, Engine, and Embedder). Most day-to-day development happens in the framework layer, which provides widgets, rendering logic, and UI abstractions.
+- Widgets are lightweight configuration objects. In Flutter, UI is built by composing widgets rather than manipulating UI elements directly. Widgets describe the desired interface, and the framework handles efficiently updating the rendered output.
+- Stateless vs Stateful widgets:
+	- StatelessWidget represents UI that depends only on configuration and does not change over time.
+	- StatefulWidget separates immutable widget configuration from mutable State, allowing the UI to update when data changes.
+- BuildContext represents a widget’s position in the widget tree. It allows widgets to access inherited data (such as themes or providers) and interact with other parts of the framework.
+- The Flutter layout system is constraint-based. Parent widgets pass constraints (min/max width and height) down the tree, children choose their size within those limits, and the parent positions them. Understanding this flow is key to solving many layout issues.
+- Flutter prioritizes performance through immutability and rebuild efficiency. Widgets are cheap to recreate, and the framework optimizes updates by comparing configurations and updating only the necessary parts of the render tree.
+- The “Inside Flutter” document emphasizes how the framework avoids unnecessary layout and rendering work, enabling smooth UI performance even with frequent rebuilds.
 
 
 ### Work Evidence
