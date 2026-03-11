@@ -86,6 +86,7 @@ class _CalculatorState extends State<Calculator> {
             child: InputContainer(callback: _changePressedKey),
           ),
         ),
+        SizedBox(height: 20),
       ],
     );
   }
