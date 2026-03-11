@@ -79,8 +79,8 @@ class _CalculatorState extends State<Calculator> {
       children: [
         Flexible(child: CalcDisplay(displayText: toDisplay)),
         SizedBox(height: 20),
-        Expanded(
-          flex: 2,
+        Flexible(
+          flex: 4,
           child: ConstrainedBox(
             constraints: BoxConstraints(maxWidth: 400),
             child: InputContainer(callback: _changePressedKey),
