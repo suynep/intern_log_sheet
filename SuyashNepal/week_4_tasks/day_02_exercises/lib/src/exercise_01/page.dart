@@ -9,12 +9,16 @@ class CalcApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Center(
-      child: Container(
-        decoration: BoxDecoration(
-          color: Colors.black,
-          borderRadius: BorderRadius.circular(24),
+      child: Padding(
+        padding: const EdgeInsets.all(8.0),
+        child: Container(
+          clipBehavior: Clip.hardEdge,
+          decoration: BoxDecoration(
+            color: Colors.black,
+            borderRadius: BorderRadius.circular(20),
+          ),
+          child: Calculator(),
         ),
-        child: Calculator(),
       ),
     );
   }
