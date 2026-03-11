@@ -33,15 +33,12 @@ class _CalculatorButtonState extends State<CalculatorButton> {
         height: 90,
         width: widget.text != "0" ? 55 : 185,
         child: Center(
-          child: Padding(
-            padding: const EdgeInsets.all(12.0),
-            child: widget.iconData == null
-                ? Text(
-                    widget.text,
-                    style: TextStyle(color: widget.textColor, fontSize: 32),
-                  )
-                : Icon(widget.iconData, color: widget.textColor, size: 32),
-          ),
+          child: widget.iconData == null
+              ? Text(
+                  widget.text,
+                  style: TextStyle(color: widget.textColor, fontSize: 20),
+                )
+              : Icon(widget.iconData, color: widget.textColor, size: 20),
         ),
       ),
     );

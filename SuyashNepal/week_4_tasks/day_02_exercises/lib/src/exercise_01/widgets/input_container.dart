@@ -62,7 +62,7 @@ class _InputContainerState extends State<InputContainer> {
       crossAxisCount: 4,
       crossAxisSpacing: 15,
       mainAxisSpacing: 20,
-      shrinkWrap: false,
+      shrinkWrap: true,
       children: buttonData
           .expand((e) => e)
           .map(
@@ -80,9 +80,6 @@ class _InputContainerState extends State<InputContainer> {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      color: Colors.black,
-      child: _createGridBody(),
-    );
+    return Container(color: Colors.black, child: _createGridBody());
   }
 }
