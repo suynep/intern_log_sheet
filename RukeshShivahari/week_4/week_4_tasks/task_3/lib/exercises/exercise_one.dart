@@ -16,7 +16,7 @@ class _ExerciseOneState extends State<ExerciseOne> {
   String gestureText = "Tap to place circle";
 
   double scale = 1.0;
-
+  
   int paletteIndex = 0;
 
   final palettes = [
