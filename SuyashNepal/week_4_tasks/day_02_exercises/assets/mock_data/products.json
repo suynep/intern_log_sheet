@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Bottled Tuesday Afternoon",
+    "description": "A glass bottle containing the exact feeling of a Tuesday afternoon in 1987. Slightly melancholic, smells of old carpet and distant lawnmowers.",
+    "price": 14.99,
+    "category": "Emotions"
+  },
+  {
+    "name": "Reverse Umbrella",
+    "description": "Opens downward and collects rain for you to drink. Pairs well with existential crises.",
+    "price": 39.99,
+    "category": "Weather Accessories"
+  },
+  {
+    "name": "Cloud in a Jar",
+    "description": "A sentient cumulus cloud compressed into a mason jar. Will judge you silently.",
+    "price": 89.99,
+    "category": "Atmospheric Oddities"
+  },
+  {
+    "name": "Grandfather Clock Without a Grandfather",
+    "description": "A clock that ticks backward and whispers the names of people you've forgotten.",
+    "price": 499.99,
+    "category": "Furniture"
+  },
+  {
+    "name": "Edible Shadow",
+    "description": "Peel your shadow off the floor and eat it. Tastes like burnt caramel and regret. Low calorie.",
+    "price": 7.49,
+    "category": "Food"
+  },
+  {
+    "name": "Mirror That Shows Yesterday",
+    "description": "Reflects exactly what you looked like 24 hours ago. Useful for accountability. Terrifying for Mondays.",
+    "price": 219.0,
+    "category": "Home Decor"
+  },
+  {
+    "name": "Left Sock of Destiny",
+    "description": "The right sock is not included and does not exist. Wearing this sock alone will subtly alter the course of history.",
+    "price": 12.0,
+    "category": "Apparel"
+  },
+  {
+    "name": "Fog Machine That Produces Nostalgia",
+    "description": "Emits a thick fog that smells like the house you grew up in. Side effects include uncontrollable memoir writing.",
+    "price": 349.99,
+    "category": "Atmosphere"
+  },
+  {
+    "name": "Pencil That Only Draws Regrets",
+    "description": "No matter what you intend to draw, it produces a hyperrealistic sketch of a decision you wish you hadn't made.",
+    "price": 5.99,
+    "category": "Stationery"
+  },
+  {
+    "name": "Alarm Clock That Wakes Your Neighbor",
+    "description": "Sets off at 3AM but only your neighbor hears it. Ships with an apology card.",
+    "price": 24.99,
+    "category": "Home Appliances"
+  },
+  {
+    "name": "Invisible Fish",
+    "description": "A fish that is completely invisible. Tank not included. Fish may or may not be present.",
+    "price": 59.99,
+    "category": "Pets"
+  },
+  {
+    "name": "Soup That Answers Questions",
+    "description": "Ask it anything. It responds in flavor. Correct answers taste like chicken. Wrong ones taste like soap.",
+    "price": 18.75,
+    "category": "Food"
+  },
+  {
+    "name": "Elevator to Nowhere",
+    "description": "A fully functional elevator that travels between floors that don't exist. Button panel includes floors -7 and ∞.",
+    "price": 12000.0,
+    "category": "Architecture"
+  },
+  {
+    "name": "Echo in a Box",
+    "description": "Open the lid and hear your own voice from 10 seconds in the future. Lid cannot be closed again.",
+    "price": 33.0,
+    "category": "Acoustic Curiosities"
+  },
+  {
+    "name": "Sweater Knitted From Daydreams",
+    "description": "Extremely warm but slightly unfocused. Wearing it makes you drift off mid-sentence.",
+    "price": 79.99,
+    "category": "Apparel"
+  },
+  {
+    "name": "Potted Plant That Grows Opinions",
+    "description": "Water it weekly and it will sprout fully formed opinions about your life choices. Repotting recommended every 6 months.",
+    "price": 44.99,
+    "category": "Botanicals"
+  },
+  {
+    "name": "Watch That Measures Boredom",
+    "description": "Displays time in units of 'meh'. Currently reads 47 mehs.",
+    "price": 129.0,
+    "category": "Accessories"
+  },
+  {
+    "name": "Frozen Argument",
+    "description": "A perfectly preserved argument from 2003, cryogenically sealed. Thaw at your own risk.",
+    "price": 9.99,
+    "category": "Emotions"
+  },
+  {
+    "name": "Lamp That Illuminates Only Secrets",
+    "description": "Turns on in rooms where someone is hiding something. Extremely bright in most households.",
+    "price": 189.0,
+    "category": "Lighting"
+  },
+  {
+    "name": "Dictionary of Words That Don't Exist Yet",
+    "description": "2,400 pages of blank entries waiting to be discovered. One word is already filled in but changes each time you look.",
+    "price": 34.99,
+    "category": "Books"
+  },
+  {
+    "name": "Portable Hole (Regulation Size)",
+    "description": "Place it on any surface to create a genuine hole. Refoldable. Do not place on floor of airplane.",
+    "price": 299.0,
+    "category": "Tools"
+  },
+  {
+    "name": "Candle That Burns Upward and Downward Simultaneously",
+    "description": "Smells like physics violations. Burns for exactly the amount of time you need it to.",
+    "price": 22.5,
+    "category": "Home Decor"
+  },
+  {
+    "name": "Glass of Water That's Also on Fire",
+    "description": "Paradoxically refreshing. FDA approval pending.",
+    "price": 11.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Telephone That Only Calls the Past",
+    "description": "Rotary dial. Can only reach moments you've already lived through. Hold times vary.",
+    "price": 750.0,
+    "category": "Communication"
+  },
+  {
+    "name": "Bread That Unleavens Itself",
+    "description": "Starts as a full loaf and slowly returns to flour over 24 hours. Best enjoyed immediately.",
+    "price": 6.49,
+    "category": "Food"
+  },
+  {
+    "name": "Hat That Thinks For You",
+    "description": "Wear it and it generates moderately acceptable thoughts. Not responsible for decisions made while wearing.",
+    "price": 399.0,
+    "category": "Apparel"
+  },
+  {
+    "name": "Staircase in a Suitcase",
+    "description": "Unfolds into a 14-step staircase. Folds back into a carry-on. No one questions it at airports.",
+    "price": 870.0,
+    "category": "Travel"
+  },
+  {
+    "name": "Moon Slice (1/8th)",
+    "description": "One eighth of a decommissioned moon. Slightly luminescent. Good for centerpieces.",
+    "price": 4200.0,
+    "category": "Celestial Goods"
+  },
+  {
+    "name": "Wind Chimes That Play Your Future",
+    "description": "Each ring corresponds to an event that hasn't happened yet. Mostly pleasant. Occasionally ominous.",
+    "price": 67.0,
+    "category": "Outdoors"
+  },
+  {
+    "name": "Cheese Aged in Silence",
+    "description": "Matured in a soundproofed vault for 11 years. Extremely sharp. Refuses to be grated.",
+    "price": 55.0,
+    "category": "Food"
+  },
+  {
+    "name": "Hourglass Filled With Frozen Minutes",
+    "description": "Flip it and time slows by 12%. Results may vary by timezone.",
+    "price": 310.0,
+    "category": "Time Devices"
+  },
+  {
+    "name": "Compass That Points to What You Want",
+    "description": "Not magnetic north. Points toward whatever you truly want in life. Needle is often spinning.",
+    "price": 88.0,
+    "category": "Navigation"
+  },
+  {
+    "name": "Jar of Concentrated Silence",
+    "description": "Open in loud rooms for immediate relief. Each jar contains approximately 4 minutes of silence.",
+    "price": 19.99,
+    "category": "Wellness"
+  },
+  {
+    "name": "Shoes That Walk Slightly Ahead of You",
+    "description": "Always two steps in front. Great for people who are indecisive. Unsettling for everyone else.",
+    "price": 145.0,
+    "category": "Footwear"
+  },
+  {
+    "name": "Painting That Rearranges Itself Overnight",
+    "description": "Goes to bed as a landscape, wakes up as a portrait. Has never painted the same thing twice.",
+    "price": 520.0,
+    "category": "Art"
+  },
+  {
+    "name": "Gloves That Remember What You Touched",
+    "description": "Wear them and they retain the texture of every surface. Eventually they stop fitting because of all the memories.",
+    "price": 73.0,
+    "category": "Accessories"
+  },
+  {
+    "name": "Sandwich From a Parallel Universe",
+    "description": "Ingredients unrecognizable but delicious. Do not ask what is in it. It won't tell you.",
+    "price": 16.0,
+    "category": "Food"
+  },
+  {
+    "name": "Subscription Box of Other People's Mondays",
+    "description": "Monthly delivery of assorted Mondays experienced by strangers. Mostly grim. Occasional surprise.",
+    "price": 29.99,
+    "category": "Subscriptions"
+  },
+  {
+    "name": "Telescope That Sees Inward",
+    "description": "Point it at yourself. Reveals things you weren't ready to know. No refunds.",
+    "price": 640.0,
+    "category": "Optics"
+  },
+  {
+    "name": "Book With Only One Sentence",
+    "description": "802 pages. One sentence on page 401. The sentence is different for every reader.",
+    "price": 28.0,
+    "category": "Books"
+  },
+  {
+    "name": "Chair That Sits in You",
+    "description": "Reversal of traditional furniture dynamics. Comfortable for the chair.",
+    "price": 233.0,
+    "category": "Furniture"
+  },
+  {
+    "name": "Cologne That Smells Like Almost Rain",
+    "description": "That specific petrichor from 30 seconds before rain hits. Bottled at great personal risk.",
+    "price": 94.0,
+    "category": "Fragrance"
+  },
+  {
+    "name": "Calendar Where Every Day Is Friday",
+    "description": "Completely nonfunctional for scheduling. Excellent for morale.",
+    "price": 17.0,
+    "category": "Stationery"
+  },
+  {
+    "name": "Pillow Stuffed With Unsent Letters",
+    "description": "Surprisingly comfortable. Occasionally murmurs.",
+    "price": 58.0,
+    "category": "Bedding"
+  },
+  {
+    "name": "Kettle That Boils Memories",
+    "description": "Fill with water and one memory. Produces a tea that tastes exactly like that moment. Single-use per memory.",
+    "price": 410.0,
+    "category": "Kitchen"
+  },
+  {
+    "name": "Map of a City That Doesn't Exist",
+    "description": "Highly detailed. Streets are named. Residents listed. No one has been there but everyone recognizes it.",
+    "price": 42.0,
+    "category": "Cartography"
+  },
+  {
+    "name": "Umbrella That Only Opens in Good Weather",
+    "description": "Useless by most metrics. Strangely beloved.",
+    "price": 31.0,
+    "category": "Weather Accessories"
+  },
+  {
+    "name": "Clock With a 25th Hour",
+    "description": "Between 11PM and midnight there is an extra hour only you can access. Contents of that hour are yours.",
+    "price": 999.0,
+    "category": "Time Devices"
+  },
+  {
+    "name": "Rug That Records Footsteps",
+    "description": "Every step taken on it is logged and replayed quietly at 3AM. High fidelity.",
+    "price": 182.0,
+    "category": "Home Decor"
+  },
+  {
+    "name": "Sunglasses That Show What Things Could Have Been",
+    "description": "Put them on and every object glows with its unrealized potential. Very heavy to wear for long periods.",
+    "price": 275.0,
+    "category": "Optics"
+  }
+]
