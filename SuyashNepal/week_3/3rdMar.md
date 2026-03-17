@@ -5,7 +5,7 @@
 ## Focus: OOP in Dart
 ### Tasks Completed
 
-- [x] **Day 05 Readings**: [Classes](https://dart.dev/language/classes), [Effective Dart](https://dart.dev/effective-dart), [Constructors](https://dart.dev/language/constructors), [Methods](https://dart.dev/language/methods), [Inheritance via `extend`](https://dart.dev/language/extend), [Mixins](https://dart.dev/language/mixins)
+- [x] **Day 01 Readings**: [Classes](https://dart.dev/language/classes), [Effective Dart](https://dart.dev/effective-dart), [Constructors](https://dart.dev/language/constructors), [Methods](https://dart.dev/language/methods), [Inheritance via `extend`](https://dart.dev/language/extend), [Mixins](https://dart.dev/language/mixins)
 - [x] **Mini-problems**: Completed! [Find Here](https://gist.github.com/suynep/5dc90962c5fa0e444e337ed041265871)
 
 ### Technical "Today I Learned" (TIL)
