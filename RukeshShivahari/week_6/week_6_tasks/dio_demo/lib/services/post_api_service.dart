@@ -1,10 +1,13 @@
+import 'package:chucker_flutter/chucker_flutter.dart';
 import 'package:dio/dio.dart';
 import 'package:dio_demo/model/post_model.dart';
+import 'package:flutter/material.dart';
 
 /// A service class that handles the http requests using [Dio];
 class PostApiService {
   /// An instance of Dio class
-  final Dio _dio = Dio();
+  final Dio _dio = Dio()
+    ..interceptors.add(ChuckerDioInterceptor());
 
   /// A base url for posts
   final String postBaseUrl =
@@ -20,13 +23,11 @@ class PostApiService {
 
       if (response.statusCode == 200) {
         final List dataList = response.data;
-
         final List<PostModel> postLists = dataList
             .map<PostModel>(
               (data) => PostModel.fromJson(data),
             )
             .toList();
-
         return postLists;
       } else {
         throw Exception(
@@ -48,8 +49,7 @@ class PostApiService {
           'body': 'This is bag',
         },
       );
-
-      print(response.data);
+      debugPrint(response.data.toString());
     } catch (e) {
       throw Exception(e);
     }
@@ -65,8 +65,7 @@ class PostApiService {
           'body': 'Updated Body',
         },
       );
-
-      print(response.data);
+      debugPrint(response.data.toString());
     } catch (e) {
       throw Exception(e);
     }
@@ -76,7 +75,7 @@ class PostApiService {
     try {
       final response = await _dio.delete('$postBaseUrl/1');
 
-      print(response.data);
+      debugPrint(response.data.toString());
     } catch (e) {
       throw Exception(e);
     }
