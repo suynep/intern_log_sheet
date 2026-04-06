@@ -40,5 +40,4 @@ final hasPin = prefs.containsKey('appPin');
 - Documentation Read: [Persist data with SharedPreferences — Flutter docs](https://docs.flutter.dev/cookbook/persistence/key-value)
 
 ### 💬 Mentor Feedback
-*(To be filled by Mentor):*
 
